@@ -20,4 +20,4 @@ I did enjoy a bit of the math part as it made calculating easier for thoes who w
 
 * Lab 11
       Lab 11, part 1, Loved this lab because it shows how the code we write can help businesses to give information to there clients in a much faster way. 
- Which is very interesting to me as i realy like business related products that make them run smoother. code that helps others move forward is the types of code i want to make and thats what this lab reminded me.
+ Which is very interesting to me as i realy like business related products that make them run smoother. code that helps others move forward is the types of code I want to make and thats what this lab reminded me.
